@@ -1,0 +1,3 @@
+Once downloaded and unzipped, just left click the .html file and open in web browser. 
+
+The game should start and immediatly asks for the players name.
